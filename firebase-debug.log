@@ -1,0 +1,21 @@
+[debug] [2023-03-07T16:01:23.946Z] ----------------------------------------------------------------------
+[debug] [2023-03-07T16:01:23.951Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\FullZo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-07T16:01:23.952Z] CLI Version:   11.23.1
+[debug] [2023-03-07T16:01:23.953Z] Platform:      win32
+[debug] [2023-03-07T16:01:23.953Z] Node Version:  v16.16.0
+[debug] [2023-03-07T16:01:23.954Z] Time:          Tue Mar 07 2023 23:01:23 GMT+0700 (เวลาอินโดจีน)
+[debug] [2023-03-07T16:01:23.955Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-07T16:01:23.984Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-07T16:01:23.985Z] > authorizing via signed-in user (namesaransuk@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\FullZo\Downloads\resume\dist
+
